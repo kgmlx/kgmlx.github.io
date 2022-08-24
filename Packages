@@ -9,7 +9,7 @@ Maintainer: kgmlx <kgmlx@xn--4caaa.eu>
 Author: kgmlx <kgmlx@xn--4caaa.eu>
 Section: Themes (Sydney)
 Depends: com.bank5ia.sydney
-Filename: debs/com.kgmlx.carssydneytheme_1.0_iphoneos-arm.deb
+Filename: debs/com.kgmlx.carssydneypack_1.0_iphoneos-arm.deb
 Size: 40051476
 MD5sum: ce8686a94bcba28a9e0eed2fcd2d57f1
 SHA1: 554691422374de7323afeccebe242376a9494e67
@@ -26,7 +26,7 @@ Maintainer: kgmlx <kgmlx@xn--4caaa.eu>
 Author: kgmlx <kgmlx@xn--4caaa.eu>
 Section: Themes (Sydney)
 Depends: com.bank5ia.sydney
-Filename: debs/com.kgmlx.memessydneytheme_1.0_iphoneos-arm.deb
+Filename: debs/com.kgmlx.memessydneypack_1.0_iphoneos-arm.deb
 Size: 14525016
 MD5sum: de3b5f55d85213846e5264570b0a5a33
 SHA1: 59ee47e7e6ce3eb1b034c1068961cecbd90e0f81
@@ -43,7 +43,7 @@ Maintainer: kgmlx <kgmlx@xn--4caaa.eu>
 Author: kgmlx <kgmlx@xn--4caaa.eu>
 Section: Themes (Sydney)
 Depends: com.bank5ia.sydney
-Filename: debs/com.kgmlx.gamessydneytheme_1.0_iphoneos-arm.deb
+Filename: debs/com.kgmlx.gamessydneypack_1.0_iphoneos-arm.deb
 Size: 12583742
 MD5sum: 592d3ec470606bfe82176456f445af0c
 SHA1: 0c8779e4a716c3667b2a7b02fbf5add7856b47ca
