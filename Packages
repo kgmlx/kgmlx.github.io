@@ -4,7 +4,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: A cars pack for Sydney!
 Depiction: 
-Icon: icons/carspack.png
+Icon: https://github.com/kgmlx/kgmlx-repo/blob/main/icons/carspack.png?raw=true
 Maintainer: kgmlx <kgmlx@xn--4caaa.eu>
 Author: kgmlx <kgmlx@xn--4caaa.eu>
 Section: Themes (Sydney)
@@ -21,7 +21,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: A Memes pack for Sydney!
 Depiction: 
-Icon: icons/memespack.png
+Icon: https://github.com/kgmlx/kgmlx-repo/blob/main/icons/memespack.png?raw=true
 Maintainer: kgmlx <kgmlx@xn--4caaa.eu>
 Author: kgmlx <kgmlx@xn--4caaa.eu>
 Section: Themes (Sydney)
@@ -38,7 +38,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: A Games pack for Sydney!
 Depiction: 
-Icon: icons/gamespack.png
+Icon: https://github.com/kgmlx/kgmlx-repo/blob/main/icons/gamespack.png?raw=true
 Maintainer: kgmlx <kgmlx@xn--4caaa.eu>
 Author: kgmlx <kgmlx@xn--4caaa.eu>
 Section: Themes (Sydney)
