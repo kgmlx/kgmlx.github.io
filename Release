@@ -1,0 +1,8 @@
+Origin: Kgmlx's Repo
+Label: Kgmlx's Repo
+Suite: Stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Kgmlx's Repo
