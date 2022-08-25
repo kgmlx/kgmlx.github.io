@@ -1,45 +1,88 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
-	<version>2.0.0-1</version>
+	<id>com.kgmlx.gamessydneypack</id>
+	<name>Games for Sydney</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>13.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>com.bank5ia.sydney</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>Games addon pack for Sydney</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>This package will add cards that you can use in Bank5ia's Sydney tweak. You can see all cards added below.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+			<image>1.png</image>
+		</screenshot>
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+			<image>2.png</image>
+		</screenshot>
+		<screenshot>
+			<image>3.png</image>
+		</screenshot>
+		<screenshot>
+			<image>4.png</image>
+		</screenshot>
+		<screenshot>
+			<image>5.png</image>
+		</screenshot>
+		<screenshot>
+			<image>6.png</image>
+		</screenshot>
+		<screenshot>
+			<image>7.png</image>
+		</screenshot>
+		<screenshot>
+			<image>8.png</image>
+		</screenshot>
+		<screenshot>
+			<image>9.png</image>
+		</screenshot>
+		<screenshot>
+			<image>10.png</image>
+		</screenshot>
+		<screenshot>
+			<image>11.png</image>
+		</screenshot>
+		<screenshot>
+			<image>12.png</image>
+		</screenshot>
+		<screenshot>
+			<image>13.png</image>
+		</screenshot>
+		<screenshot>
+			<image>14.png</image>
+		</screenshot>
+		<screenshot>
+			<image>15.png</image>
+		</screenshot>
+		<screenshot>
+			<image>16.png</image>
+		</screenshot>
+		<screenshot>
+			<image>17.png</image>
+		</screenshot>
+		<screenshot>
+			<image>18.png</image>
+		</screenshot>
+		<screenshot>
+			<image>19.png</image>
+		</screenshot>
+		<screenshot>
+			<image>20.png</image>
+		</screenshot>
+		<screenshot>
+			<image>21.png</image>
+		</screenshot>
+		<screenshot>
+			<image>22.png</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial Release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
 </package>
