@@ -15,7 +15,7 @@ MD5sum: c826d35d9ffc87ad08609795fa92cdee
 SHA1: e9134949783dd707a3b67adf664ae8f0a8e45ff8
 SHA256: f0a351ff5de8dc50ada64c73c317883c46a6ded202ea0bb9f7dc9eed3d023d06
 
-Package: com.kgmlx.memesydneypack
+Package: com.kgmlx.memessydneypack
 Name: Memes for Sydney
 Version: 1.0
 Architecture: iphoneos-arm
