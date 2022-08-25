@@ -27,7 +27,7 @@ Author: kgmlx <kgmlx@xn--4caaa.eu>
 Section: Themes (Sydney)
 Depends: com.bank5ia.sydney
 Filename: debs/com.kgmlx.memessydneypack_1.0_iphoneos-arm.deb
-Size: 14525016
+Size: 14525012
 MD5sum: ccff6050fe26c4c2abfe368adf36f0b8
 SHA1: f98a2091931b2d4252cf900182ce9728fef61bae
 SHA256: 26249d9c912ed01f5f05c5fc8738a70694935456e210472481963d02b339fb32
@@ -44,7 +44,7 @@ Author: kgmlx <kgmlx@xn--4caaa.eu>
 Section: Themes (Sydney)
 Depends: com.bank5ia.sydney
 Filename: debs/com.kgmlx.gamessydneypack_1.0_iphoneos-arm.deb
-Size: 12583742
+Size: 12583740
 MD5sum: 2bf70b8fe145bd410c175e7648dd6dd3
 SHA1: 0aad372388dd0b578a42b6f62631b0fe7a6bd0cb
 SHA256: 29092b6fd6cf2c556eac87582fda678251eab4ca0a65960998ee1041a2534009
